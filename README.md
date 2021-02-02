@@ -1,4 +1,4 @@
-# intro_in_git
+# Intro in GIT
 
 
 
@@ -18,3 +18,6 @@ git commit -m "Repozitorija commit nosaukums"   # Versijas izvade githuba
 git push origin main                            # Augšupielādēt repozitoriju
 
 '''
+
+## Status
+Izstrādes režīmā.
