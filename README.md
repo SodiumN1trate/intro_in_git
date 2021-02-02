@@ -39,7 +39,7 @@ Izstrādes režīmā.
 | Vārds | Uzvārds | Vecums |
 | ----------- | ----------- | ----------- |
 | Renārs | Gausiņš | 17 |
-
+| Anatolijs | Kurmindžins | 27 |
 
 ## Autors
 Renārs Gausiņš | NātrijaNitrāts | SodiumNitrate
