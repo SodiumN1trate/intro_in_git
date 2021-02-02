@@ -15,4 +15,6 @@ git add .                                       # Repozitorija sagatavošana com
 
 git commit -m "Repozitorija commit nosaukums"   # Versijas izvade githuba
 
+git push origin main                            # Augšupielādēt repozitoriju
+
 '''
