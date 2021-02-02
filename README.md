@@ -2,7 +2,7 @@
 
 
 ## Mans logo
-!["Test"]('https://img1.spoki.lv/upload/articles/47/477763/images/Kakisi-61-Bilde-53.jpg')
+!["Test"](https://img1.spoki.lv/upload/articles/47/477763/images/Kakisi-61-Bilde-53.jpg)
 
 
 
