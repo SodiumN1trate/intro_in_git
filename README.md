@@ -27,19 +27,18 @@ git push origin main                            # Augšupielādēt repozitoriju
 Izstrādes režīmā.
 
 ## Projekti
-1.) SodiumNitrate's blog
-2.) Foozie discord bot
-3.) Muzon (Reklāmas mājaslapa)
-4.) SA-MP servers
-5.) FiveM servers
-6.) Miten (Spēļu tornamentu vadīšanas mājaslapa)
-4.) Citi mazi projekti
+1. SodiumNitrate's blog
+2. Foozie discord bot
+3. Muzon (Reklāmas mājaslapa)
+4. SA-MP servers
+5. FiveM servers
+6. Miten (Spēļu tornamentu vadīšanas mājaslapa)
+4. Citi mazi projekti
 
 ## Tabula
-| Syntax | Description |
-| ----------- | ----------- |
-| Header | Title |
-| Paragraph | Text |
+| Vārds | Uzvārds | Vecums |
+| ----------- | ----------- | ----------- |
+| Renārs | Gausiņš | 17 |
 
 
 ## Autors
