@@ -21,3 +21,7 @@ git push origin main                            # Augšupielādēt repozitoriju
 
 ## Status
 Izstrādes režīmā.
+
+
+## Autors
+Renārs Gausiņš / NātrijaNitrāts/ SodiumNitrate
