@@ -42,4 +42,4 @@ Izstrādes režīmā.
 | Anatolijs | Kurmindžins | 27 |
 
 ## Autors
-Renārs Gausiņš | NātrijaNitrāts --- SodiumNitrate
+Renārs Gausiņš | NātrijaNitrāts --- SodiumNitrate ---
