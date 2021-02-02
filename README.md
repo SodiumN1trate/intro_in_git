@@ -2,7 +2,7 @@
 
 
 ## Mans logo
-!["Test"](bilde.png)
+!["Test"]('https://img1.spoki.lv/upload/articles/47/477763/images/Kakisi-61-Bilde-53.jpg')
 
 
 
@@ -43,10 +43,3 @@ Izstrādes režīmā.
 
 ## Autors
 Renārs Gausiņš | NātrijaNitrāts | SodiumNitrate 
-```
-{
-  "Vārds": "Regnārs",
-  "Uzvārds": "Kausiņš",
-  "Vecums": 25
-}
-```
