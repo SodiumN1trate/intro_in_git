@@ -26,6 +26,9 @@ Izstrādes režīmā.
 1.) SodiumNitrate's blog
 2.) Foozie discord bot
 3.) Muzon (Reklāmas mājaslapa)
+4.) SA-MP servers
+5.) FiveM servers
+6.) Miten (Spēļu tornamentu vadīšanas mājaslapa)
 4.) Citi mazi projekti
 
 
